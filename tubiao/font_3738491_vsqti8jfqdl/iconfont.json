@@ -1,0 +1,16 @@
+{
+  "id": "3738491",
+  "name": "tubiao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15188239",
+      "name": "cake",
+      "font_class": "cake",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    }
+  ]
+}
